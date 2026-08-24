@@ -1,0 +1,208 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Academic CV - Ziyi Liang
+% Template: Elegant/Classic (Matteo Sesia Style)
+% Updates: 
+% 1. Section Headers: BIGGER (\Large), Serif Small Caps
+% 2. Subsection Headers: Serif Italic
+% 3. No Bold / No Colored Links / Underlines kept
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[11pt]{article}
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES
+%----------------------------------------------------------------------------------------
+\usepackage[left=0.8in,right=0.8in,top=0.7in,bottom=0.7in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}   % Main Font: Times New Roman (Serif)
+\usepackage[hidelinks]{hyperref} % No colored links
+\usepackage{enumitem}   % For lists
+\usepackage{titlesec}   % For section formatting
+
+%----------------------------------------------------------------------------------------
+%	FORMATTING CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+% Remove page numbers
+\pagenumbering{gobble}
+
+% Section Headers: Serif, BIGGER (\Large), Small Caps, No Bold, Underlined
+\titleformat{\section}
+  {\normalfont\Large\scshape} 
+  {}{0em}
+  {}
+  [\titlerule]
+
+% Subsection Headers: Serif, Normalsize, Italic, No Bold
+\titleformat{\subsection}
+  {\normalfont\normalsize\itshape}
+  {}{0em}
+  {}
+
+% Spacing adjustments
+\titlespacing*{\section}{0pt}{8pt}{4pt}
+\titlespacing*{\subsection}{0pt}{5pt}{2pt}
+
+%----------------------------------------------------------------------------------------
+%	BEGIN DOCUMENT
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	HEADER
+%----------------------------------------------------------------------------------------
+\begin{center}
+    {\Huge \textsc{Ziyi Liang}} \\ \vspace{10pt}
+    Department of Statistics and Applied Probability, University of California, Santa Barbara \\
+    Santa Barbara, CA 93106 \\ \vspace{5pt}
+    \href{mailto:ziyiliang@ucsb.edu}{ziyiliang@ucsb.edu} $\cdot$
+    \href{mailto:liangziyi0521@gmail.com}{liangziyi0521@gmail.com} $\cdot$ 
+    (+1) 626-617-0521 \\
+    \url{https://github.com/ZiyiLiang}
+\end{center}
+
+\vspace{0pt}
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH INTERESTS
+%----------------------------------------------------------------------------------------
+\section{Research Interests}
+
+Data integration; uncertainty quantification; data science for science; multimodal learning; mobile health; computational neuroscience.
+
+%----------------------------------------------------------------------------------------
+% POSITIONS
+%----------------------------------------------------------------------------------------
+\section{Academic Positions}
+\begin{itemize}[leftmargin=*, label={}, itemsep=4pt]
+    \item Postdoctoral Researcher, Department of Statistics and Applied Probability, University of California, Santa Barbara (July 12, 2026 -- present) \\
+    Research advisors: Annie Qu and Babak Shahbaba
+
+    \item Postdoctoral Researcher, Department of Statistics, University of California, Irvine (2024 -- July 11, 2026) \\
+    Research advisors: Annie Qu and Babak Shahbaba; domain-science mentor: Norbert Fortin
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+\section{Education}
+\begin{itemize}[leftmargin=*, label={}, itemsep=2pt]
+    \item Ph.D. in Applied Mathematics, University of Southern California (2018 -- 2024) \\
+    Advisors: Matteo Sesia, Larry Goldstein
+
+    \item B.S. in Mathematics / Computer Science, University of California, San Diego (2014 -- 2018) \\
+    Department of Mathematics
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS AND PREPRINTS
+%----------------------------------------------------------------------------------------
+\section{Publications and Preprints}
+{\small \textit{*: Equal contribution}}
+\subsection*{Work in Progress}
+\begin{enumerate}[label={[\arabic*]}, leftmargin=*, resume, itemsep=2pt]
+
+    \item  Z. Liang, X. Cao, W. Guo, A. Qu. Conformal prediction for multi-resolution time series with application to mobile health data. 
+    
+    \item Z. Liang, A. Qu, B. Shahbaba. A Brain-inspired Reinforcement Learning Framework: Sequential Action via Graph-based Episodic Memory (SAGE).
+\end{enumerate}
+
+
+\subsection*{Preprints (Under Review or Revision)}
+
+\begin{enumerate}[label={[\arabic*]}, leftmargin=*, resume, itemsep=2pt]
+    \item Z. Liang, H. Poursiami, Z. Yang, K. W. Cooper, A. Jaiswal, M. Parsa, N. Fortin, B. Shahbaba. ConformalHDC: Uncertainty-Aware Hyperdimensional Computing with Application to Neural Decoding. \textit{Preprint}. \url{https://arxiv.org/abs/2602.21446}
+
+    \item Z. Liang, A. Qu, B. Shahbaba. Meta Fusion: A Unified Framework For Multimodality Fusion with Mutual Learning. \textit{Preprint}. \url{https://arxiv.org/abs/2507.20089}
+
+    
+    \item T. Xie, Y. Zhou, Z. Liang, S. Favaro, M. Sesia. Conformal Inference for Open-Set and Imbalanced Classification. \textit{Preprint}. \url{https://arxiv.org/abs/2510.13037}
+\end{enumerate}
+
+\subsection*{Journal Articles}
+
+\begin{enumerate}[label={[\arabic*]}, leftmargin=*,  resume, itemsep=2pt]
+    \item Z. Liang\textsuperscript{*}, T. Xie\textsuperscript{*}, X. Tong, M. Sesia. Structured Conformal Inference for Matrix Completion with Applications to Group Recommender Systems. \textit{Journal of the American Statistical Association} (published online, 2026). \url{https://doi.org/10.1080/01621459.2026.2658287}
+
+    \item Z. Liang, T. T. Cai, W. Sun and Y. Xia. A Locally Adaptive Algorithm for Multiple Testing with Network Structure. \textit{Statistica Sinica} 36 (2026). \url{https://doi.org/10.5705/ss.202024.0002}
+    
+    \item Z. Liang, M. Sesia, W. Sun. Integrative Conformal Inference for Out-of-Distribution Testing with Labeled Outliers. \textit{Journal of the Royal Statistical Society: Series B} (2024). 
+    \url{https://doi.org/10.1093/jrsssb/qkad138}
+
+\end{enumerate}
+
+\subsection*{Conference and Workshop Papers}
+\begin{enumerate}[label={[\arabic*]}, leftmargin=*, resume, itemsep=2pt]
+    \item Z. Moslemi, Z. Liang, N. Fortin, B. Shahbaba. Multi-Graph Meta-Transformer: An Interpretable Framework for Cross-Graph Functional Alignment in Neural Decoding. \textit{Advances in Neural Information Processing Systems (NeurIPS)} (2025). \href{https://openreview.net/pdf/b80baee1e96105401fdc5397af5723ebdb7054a1.pdf}{Paper}
+
+    \item Z. Liang\textsuperscript{*}, Y. Zhou\textsuperscript{*}, M. Sesia. Conformal inference is (almost) free for neural networks trained with early stopping. \textit{International Conference on Machine Learning (ICML)} (2023). \href{https://proceedings.mlr.press/v202/liang23i.html}{Paper}
+
+    \item S. Bucci\textsuperscript{*}, J. I. D. Centeno\textsuperscript{*}, B. Gaffinet\textsuperscript{*}, Z. Liang\textsuperscript{*}, V. Bickel, B. Moseley, M. Olivares-Mendez. Thermophysical Change Detection on the Moon with the Lunar Reconnaissance Orbiter Diviner sensor. \textit{NeurIPS 2022 Workshop on Machine Learning and the Physical Sciences} (2022). \url{https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_174.pdf}
+\end{enumerate}
+
+
+%----------------------------------------------------------------------------------------
+%	HONORS AND AWARDS
+%----------------------------------------------------------------------------------------
+\section{Honors and Awards}
+
+Theodore Edward Harris Teaching Prize (2024). \\
+Awarded by Department of Mathematics, University of Southern California.
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH EXPERIENCE
+%----------------------------------------------------------------------------------------
+\section{Other Professional Activities}
+
+Machine Learning Research Intern,  Frontier Development Lab, San Jose, California. (Summer 2022)
+
+%----------------------------------------------------------------------------------------
+%	TEACHING EXPERIENCE
+%----------------------------------------------------------------------------------------
+\section{Teaching Experience}
+
+University of Southern California:
+\begin{itemize}[leftmargin=*, label={}, itemsep=0pt]
+    \item \textit{Instructor}: MATH 040 --- Basic Mathematical Skills (Fall 2023).
+    \item \textit{Teaching Assistant}: MATH 541A --- Introduction to Mathematical Statistics (Spring 2023).
+    \item \textit{Teaching Assistant}: MATH 114 --- Foundations of Statistics (Fall 2020, Fall 2021).
+    \item \textit{Teaching Assistant}: MATH 408 --- Mathematical Statistics (Spring 2021).
+    \item \textit{Teaching Assistant}: MATH 129 --- Calculus II for Engineers and Scientists (Spring 2019).
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	PRESENTATIONS
+%----------------------------------------------------------------------------------------
+\section{Selected Presentations}
+
+\subsection*{Conference and Workshop Presentations}
+\begin{itemize}[leftmargin=*, label={}, itemsep=0pt]
+    \item ICML 2023 (Poster). Conformal inference is (almost) free for neural networks trained with early stopping. (July 2023)
+    \item NeurIPS 2022 (Poster). Thermophysical Change Detection on the Lunar Surface. (Dec 2022)
+\end{itemize}
+
+\subsection*{Seminar Presentations}
+\begin{itemize}[leftmargin=*, label={}, itemsep=0pt]
+    \item USC Probability Seminar. Transfer learning for multiple testing with applications. (March 2022)
+    \item USC Math Department. Review on dimensionality reduction techniques and applications of random projections. (Dec 2019)
+\end{itemize}
+
+\subsection*{Industry Presentations}
+\begin{itemize}[leftmargin=*, label={}, itemsep=0pt]
+    \item FDL 2022 Showcase. Change Detection on the Moon with the LRO Diviner sensor. (Aug 2022)
+\end{itemize}
+
+% \subsection*{Invited Discussions}
+% % \begin{itemize}[leftmargin=*, label={}, itemsep=2pt]
+% %    \item [Add details if applicable]
+% % \end{itemize}
+% (None listed currently)
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL SKILLS
+%----------------------------------------------------------------------------------------
+\section{Professional Service}
+Referee for the \textit{Journal of the American Statistical Association}.
+
+\end{document}
