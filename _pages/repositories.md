@@ -11,6 +11,18 @@ Selected implementations accompanying my methodological research. For a full lis
 
 <div class="software-grid">
   <article class="software-card">
+    <h3>Meta Fusion</h3>
+    <p>
+      Software for a model-agnostic framework that unifies early, intermediate, and late multimodal fusion through adaptive mutual learning among a cohort of models.
+    </p>
+    <div class="software-tags"><span>Python</span><span>Jupyter</span><span>Multimodal data integration</span></div>
+    <div class="software-links">
+      <a href="https://github.com/ZiyiLiang/MetaFusion">GitHub</a>
+      <a href="https://arxiv.org/abs/2507.20089">Paper</a>
+    </div>
+  </article>
+
+  <article class="software-card">
     <h3>Structured Conformal Inference for Matrix Completion</h3>
     <p>
       Python package and experiment code for constructing joint prediction regions in matrix-completion and group-recommender settings.
@@ -98,6 +110,7 @@ Selected implementations accompanying my methodological research. For a full lis
   .software-links {
     display: flex;
     gap: 1rem;
+    font-weight: 600;
   }
 
   @media (max-width: 767.98px) {

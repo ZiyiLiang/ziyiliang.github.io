@@ -151,12 +151,6 @@ nav_order: 1
       <div class="publication-links"><a href="https://arxiv.org/abs/2602.21446">Preprint</a><a href="https://github.com/ZiyiLiang/conformalHDC">Code</a></div>
     </li>
     <li class="publication-item">
-      <p class="publication-title">Meta Fusion: A Unified Framework for Multimodality Fusion with Mutual Learning</p>
-      <p class="publication-authors"><strong>Z. Liang</strong>, A. Qu, and B. Shahbaba</p>
-      <p class="publication-venue">Preprint, 2025</p>
-      <div class="publication-links"><a href="https://arxiv.org/abs/2507.20089">Preprint</a><a href="https://github.com/ZiyiLiang/MetaFusion">Code</a></div>
-    </li>
-    <li class="publication-item">
       <p class="publication-title">Conformal Inference for Open-Set and Imbalanced Classification</p>
       <p class="publication-authors">T. Xie, Y. Zhou, <strong>Z. Liang</strong>, S. Favaro, and M. Sesia</p>
       <p class="publication-venue">Preprint, 2025</p>
@@ -168,6 +162,12 @@ nav_order: 1
 <section class="publication-category">
   <h2>Journal Articles</h2>
   <ol class="publication-list">
+    <li class="publication-item">
+      <p class="publication-title">Meta Fusion: A Unified Framework for Multimodal Fusion with Adaptive Mutual Learning</p>
+      <p class="publication-authors"><strong>Z. Liang</strong>, A. Qu, and B. Shahbaba</p>
+      <p class="publication-venue"><em>Journal of the Royal Statistical Society: Series B</em>, accepted for publication, 2026</p>
+      <div class="publication-links"><a href="https://arxiv.org/abs/2507.20089">Preprint</a><a href="https://github.com/ZiyiLiang/MetaFusion">Code</a></div>
+    </li>
     <li class="publication-item">
       <p class="publication-title">Structured Conformal Inference for Matrix Completion with Applications to Group Recommender Systems</p>
       <p class="publication-authors"><strong>Z. Liang</strong><sup>*</sup>, T. Xie<sup>*</sup>, X. Tong, and M. Sesia</p>
