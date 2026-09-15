@@ -166,7 +166,7 @@ nav_order: 1
       <p class="publication-title">Meta Fusion: A Unified Framework for Multimodal Fusion with Adaptive Mutual Learning</p>
       <p class="publication-authors"><strong>Z. Liang</strong>, A. Qu, and B. Shahbaba</p>
       <p class="publication-venue"><em>Journal of the Royal Statistical Society: Series B</em>, accepted for publication, 2026</p>
-      <div class="publication-links"><a href="https://arxiv.org/abs/2507.20089">Preprint</a><a href="https://github.com/ZiyiLiang/MetaFusion">Code</a></div>
+      <div class="publication-links"><a href="https://doi.org/10.1093/jrsssb/qkag129">Official</a><a href="https://arxiv.org/abs/2507.20089">Preprint</a><a href="https://github.com/ZiyiLiang/MetaFusion">Code</a></div>
     </li>
     <li class="publication-item">
       <p class="publication-title">Structured Conformal Inference for Matrix Completion with Applications to Group Recommender Systems</p>
