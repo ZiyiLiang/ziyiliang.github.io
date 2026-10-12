@@ -145,6 +145,11 @@ nav_order: 1
   <h2>Preprints and Manuscripts Under Review</h2>
   <ol class="publication-list">
     <li class="publication-item">
+      <p class="publication-title">SCOPE Before You Sample: Conformal Scores Guide Posterior Exploration for Fast and Calibrated Bayesian Predictive Inference</p>
+      <p class="publication-authors">Z. Moslemi, <strong>Z. Liang</strong>, and B. Shahbaba</p>
+      <p class="publication-venue">Preprint, 2026</p>
+    </li>
+    <li class="publication-item">
       <p class="publication-title">ConformalHDC: Uncertainty-Aware Hyperdimensional Computing with Application to Neural Decoding</p>
       <p class="publication-authors"><strong>Z. Liang</strong>, H. Poursiami, Z. Yang, K. W. Cooper, A. Jaiswal, M. Parsa, N. Fortin, and B. Shahbaba</p>
       <p class="publication-venue">Preprint, 2026</p>
@@ -165,8 +170,8 @@ nav_order: 1
     <li class="publication-item">
       <p class="publication-title">Meta Fusion: A Unified Framework for Multimodal Fusion with Adaptive Mutual Learning</p>
       <p class="publication-authors"><strong>Z. Liang</strong>, A. Qu, and B. Shahbaba</p>
-      <p class="publication-venue"><em>Journal of the Royal Statistical Society: Series B</em>, accepted for publication, 2026</p>
-      <div class="publication-links"><a href="https://doi.org/10.1093/jrsssb/qkag129">Official</a><a href="https://arxiv.org/abs/2507.20089">Preprint</a><a href="https://github.com/ZiyiLiang/MetaFusion">Code</a></div>
+      <p class="publication-venue"><em>Journal of the Royal Statistical Society: Series B</em>, 2026</p>
+      <div class="publication-links"><a href="https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag129/8859170">Official</a><a href="https://arxiv.org/abs/2507.20089">Preprint</a><a href="https://github.com/ZiyiLiang/MetaFusion">Code</a></div>
     </li>
     <li class="publication-item">
       <p class="publication-title">Structured Conformal Inference for Matrix Completion with Applications to Group Recommender Systems</p>

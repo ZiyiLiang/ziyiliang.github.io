@@ -18,7 +18,7 @@ Selected implementations accompanying my methodological research. For a full lis
     <div class="software-tags"><span>Python</span><span>Jupyter</span><span>Multimodal data integration</span></div>
     <div class="software-links">
       <a href="https://github.com/ZiyiLiang/MetaFusion">GitHub</a>
-      <a href="https://arxiv.org/abs/2507.20089">Paper</a>
+      <a href="https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag129/8859170">Paper</a>
     </div>
   </article>
 
