@@ -148,6 +148,7 @@ nav_order: 1
       <p class="publication-title">SCOPE Before You Sample: Conformal Scores Guide Posterior Exploration for Fast and Calibrated Bayesian Predictive Inference</p>
       <p class="publication-authors">Z. Moslemi, <strong>Z. Liang</strong>, and B. Shahbaba</p>
       <p class="publication-venue">Preprint, 2026</p>
+      <div class="publication-links"><a href="https://arxiv.org/abs/2610.17146">Preprint</a></div>
     </li>
     <li class="publication-item">
       <p class="publication-title">ConformalHDC: Uncertainty-Aware Hyperdimensional Computing with Application to Neural Decoding</p>
