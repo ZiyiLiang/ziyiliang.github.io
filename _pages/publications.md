@@ -145,6 +145,11 @@ nav_order: 1
   <h2>Preprints and Manuscripts Under Review</h2>
   <ol class="publication-list">
     <li class="publication-item">
+      <p class="publication-title">HippocamPEX: A Hippocampus-Inspired Mixed-Signal Architecture for Context-Aware Sequence Prediction</p>
+      <p class="publication-authors">A. Singh, K. W. Cooper, Z. Yang, H. Poursiami, B. S. Kayarabettu, <strong>Z. Liang</strong>, B. Shahbaba, M. Parsa, N. Fortin, and A. Jaiswal</p>
+      <p class="publication-venue">Preprint, 2026</p>
+    </li>
+    <li class="publication-item">
       <p class="publication-title">SCOPE Before You Sample: Conformal Scores Guide Posterior Exploration for Fast and Calibrated Bayesian Predictive Inference</p>
       <p class="publication-authors">Z. Moslemi, <strong>Z. Liang</strong>, and B. Shahbaba</p>
       <p class="publication-venue">Preprint, 2026</p>
