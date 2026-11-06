@@ -145,8 +145,8 @@ nav_order: 1
   <h2>Preprints and Manuscripts Under Review</h2>
   <ol class="publication-list">
     <li class="publication-item">
-      <p class="publication-title">HippocamPEX: A Hippocampus-Inspired Mixed-Signal Architecture for Context-Aware Sequence Prediction</p>
-      <p class="publication-authors">A. Singh, K. W. Cooper, Z. Yang, H. Poursiami, B. S. Kayarabettu, <strong>Z. Liang</strong>, B. Shahbaba, M. Parsa, N. Fortin, and A. Jaiswal</p>
+      <p class="publication-title">HippocamPEX: A Hippocampus-Inspired In-Silico Architecture for Context-Aware Sequence Prediction</p>
+      <p class="publication-authors">M. A. al Kaiser, K. W. Cooper, R. Noor, A. Singh, Z. Yang, H. Poursiami, B. S. Kayarabettu, <strong>Z. Liang</strong>, B. Shahbaba, M. Parsa, N. J. Fortin, and A. Jaiswal</p>
       <p class="publication-venue">Preprint, 2026</p>
       <div class="publication-links"><a href="https://arxiv.org/abs/2611.05415">Preprint</a></div>
     </li>
