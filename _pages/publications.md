@@ -148,6 +148,7 @@ nav_order: 1
       <p class="publication-title">HippocamPEX: A Hippocampus-Inspired Mixed-Signal Architecture for Context-Aware Sequence Prediction</p>
       <p class="publication-authors">A. Singh, K. W. Cooper, Z. Yang, H. Poursiami, B. S. Kayarabettu, <strong>Z. Liang</strong>, B. Shahbaba, M. Parsa, N. Fortin, and A. Jaiswal</p>
       <p class="publication-venue">Preprint, 2026</p>
+      <div class="publication-links"><a href="https://arxiv.org/abs/2611.05415">Preprint</a></div>
     </li>
     <li class="publication-item">
       <p class="publication-title">SCOPE Before You Sample: Conformal Scores Guide Posterior Exploration for Fast and Calibrated Bayesian Predictive Inference</p>
