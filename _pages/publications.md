@@ -229,6 +229,11 @@ nav_order: 1
   <h2>Working Papers</h2>
   <ol class="publication-list">
     <li class="publication-item">
+      <p class="publication-title">Multi-Graph Meta-Transformer (MGMT): Multi-Depth Meta-Graph Fusion for Heterogeneous Graph Collections</p>
+      <p class="publication-authors">Z. Moslemi, <strong>Z. Liang</strong>, N. Fortin, and B. Shahbaba</p>
+      <p class="publication-venue">Working paper. Extended version of the 2025 NeurIPS AI4Science workshop paper.</p>
+    </li>
+    <li class="publication-item">
       <p class="publication-title">Conformal Prediction for Multi-Resolution Time Series with Application to Mobile Health Data</p>
       <p class="publication-authors"><strong>Z. Liang</strong>, X. Cao, W. Guo, and A. Qu</p>
       <p class="publication-venue">Working paper</p>
